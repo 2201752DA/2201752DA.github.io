@@ -1,4 +1,4 @@
-#CGAD Student
+# CGAD Student
 
 ### Education
 Currently studying Computer Game Application Development, BSc (Hons)
