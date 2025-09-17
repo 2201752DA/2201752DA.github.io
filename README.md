@@ -12,6 +12,6 @@ Currently studying Computer Game Application Development, BSc (Hons)
 
 
 ### Contact
-Email: tbd
+Email: tbd <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-anderson-3b90a521b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2201752DA)
