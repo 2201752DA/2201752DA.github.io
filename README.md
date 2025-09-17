@@ -10,6 +10,11 @@ Currently studying Computer Game Application Development, BSc (Hons)
 * Created core gameplay systems and mechanics
 * Unity, C#, VS Code
 
+[GTFO](https://team-banana.itch.io/gtfo) | October 2022 - October 2022
+* Worked in a team of 2 to create a short platformer for a halloween focused game jam
+* Designed and created level layout
+* One of the first projects i worked on
+
 
 ### Contact
 Email: tbd <br>
