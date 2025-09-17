@@ -6,7 +6,7 @@ Currently studying Computer Game Application Development, BSc (Hons)
 ### Projects
 
 [Shore Leave](https://github.com/Alessandro6922/DES315) | January 2025 - May 2025
-* Designed and created a game focused around blending 2D and 3D perspectives in a seamless fashion for DES315
+* Worked within a team of 8 to design and create a game focused around blending 2D and 3D perspectives in a seamless fashion for DES315
 * Created core gameplay systems and mechanics
 * Unity, C#, VS Code
 
