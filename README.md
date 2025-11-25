@@ -8,8 +8,8 @@ Currently studying Computer Game Application Development, BSc (Hons)
 
 
 
-[Shore Leave](https://splitscreen2025.itch.io/shore-leave) |  January 2025 - May 2025 
-<img align="right" width="280" height="151" alt="ooqDO7" src="https://github.com/user-attachments/assets/1f7e4a1a-9477-4cbe-94c3-cfc95d39d087" />
+[Shore Leave](https://splitscreen2025.itch.io/shore-leave) |  January 2025 - May 2025 <img align="right" width="280" height="151" alt="ooqDO7" src="https://github.com/user-attachments/assets/1f7e4a1a-9477-4cbe-94c3-cfc95d39d087" />
+
 * Worked within a team of 8 to design and create a game focused around blending 2D and 3D perspectives in a seamless fashion for DES315
 * This game revolved around the blending of 2D and 3D space in order to create a comfortable and cozy 3d island into unique and interesting puzzles within 2d space contextualized within the world.
 * Created core gameplay systems and mechanics
